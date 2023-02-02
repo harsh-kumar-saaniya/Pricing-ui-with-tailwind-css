@@ -1,5 +1,5 @@
 import React from 'react'
-import CheckMarkIcons from './Icons/checkMarkIcons';
+import Icon4 from './Icons/Icon4'
 
 export default function Pricing() {
     return (
@@ -18,19 +18,19 @@ export default function Pricing() {
                 </p>
                 <div className='mt-8'>
                     <div className='flex items-center space-between mt-3 space-x-5 font-medium'>
-                        <CheckMarkIcons/>
+                        <Icon4/>
                         <p>International calling and messaging API</p>
                     </div>
                     <div className='flex mt-3 items-center space-x-5 font-medium'>
-                        <CheckMarkIcons />
+                        <Icon4 />
                         <p>Additional phone numbers</p>
                     </div>
                     <div className='flex mt-3 items-center space-x-5 font-medium'>
-                        <CheckMarkIcons />
+                        <Icon4 />
                         <p>Automated messages via Zapier</p>
                     </div>
                     <div className='flex mt-3 items-center space-x-5 font-medium'>
-                        <CheckMarkIcons />
+                        <Icon4 />
                         <p>24/7 support and consulting</p>
                     </div>
                 </div>

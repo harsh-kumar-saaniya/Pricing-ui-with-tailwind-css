@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function CheckMarkIcons() {
+export default function Icon4() {
     return (
         <svg
             width="22"
